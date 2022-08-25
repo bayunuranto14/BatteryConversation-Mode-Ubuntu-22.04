@@ -1,5 +1,6 @@
 <h2> Battery Conversation Mode Ubuntu 22.04 LTS</h2>
 <h3>Switch Conversation Mode Battery for Ubuntu 22-04</h3>
+<p>How to fixed battery stuck <60% in Ubuntu 22.04 . Tested by me </p>
 
 
 <b>Tutorial : </b><br/>
